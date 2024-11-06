@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'http://217.160.163.149/',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'rvtsmdqo_fastcontrolbackend',
@@ -97,7 +97,7 @@ $db['default'] = array(
 
 $db['target_db'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'http://217.160.163.149/',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'rvtsmdqo_fastcontrol',
